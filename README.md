@@ -227,29 +227,12 @@ Fatigue & Coordination Assessment
 
 ---
 
-## Authors
+## Author
 
 **Shreya Das**  
 Electronics and Communication Engineering (Biomedical Engineering)  
 Vellore Institute of Technology
 
-**Co-Authors**
-- Riddhi Sharma
-- Aishwarya AN
-- KK Rithanya
-- Varalika Mathur
-
-**Faculty Mentor**
-- Dr. Subramaniyan Parimalam
-
----
-
-## Citation
-
-If you use this work, please cite:
-
-> Sharma R., Das S., AN A., Rithanya K.K., Mathur V., Parimalam S.
-> *EMG Mapping of Muscle Fatigue During Exercise: Quantitative Analysis of Neuromuscular Adaptations and Training-Related Differences in Demographic Groups.*
 
 ---
 
