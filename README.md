@@ -183,31 +183,14 @@ Fatigue & Coordination Assessment
 
 ---
 
-## Visualizations
+## Key Analyses Performed
 
-### Experimental Setup
-
-![Experimental Setup](images/setup.jpg)
-
-### RMS Analysis
-
-![RMS Analysis](images/rms_analysis.png)
-
-### MDF vs MNF Analysis
-
-![MDF vs MNF](images/mdf_mnf.png)
-
-### Motor Unit Recruitment
-
-![Motor Unit Recruitment](images/motor_unit_recruitment.png)
-
-### Muscle Synergy Analysis
-
-![Muscle Synergy](images/muscle_synergy.png)
-
-### Fatigue Analysis
-
-![Fatigue Analysis](images/fatigue_analysis.png)
+- EMG-based muscle fatigue quantification
+- Motor unit recruitment and firing pattern analysis
+- Fast-twitch vs. slow-twitch fiber dominance assessment
+- Neuromuscular coordination and activation timing evaluation
+- Exercise-wise fatigue comparison across demographic groups
+- Statistical analysis of training-related neuromuscular adaptations
 
 ---
 
